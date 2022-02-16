@@ -4,7 +4,6 @@ This is the back-end for a full-stack app that I'm buidling with MERN Stack.
 
 ## Stack
 - NodeJS
-- ContextAPI
 - JWT
 - Bcrypt
 - MongoDB / Mongoose / MongoDB Atlas
