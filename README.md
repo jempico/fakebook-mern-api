@@ -45,7 +45,7 @@ To get a local copy up and running follow these simple steps.
 
 Some examples of how the request body should look like in order to make a request:
 
-1. <b>POST/users</b>: adds a new user
+1. <b>POST/api/users/</b>: adds a new user
    ``` 
    {   
     "email": "ivan@gmail.com",
@@ -53,7 +53,7 @@ Some examples of how the request body should look like in order to make a reques
    }
    ``` 
 
-2. <b>POST/login</b>: logins a new user
+2. <b>POST/api/login/</b>: logins a new user
    ``` 
    {   
     "email": "ivan@gmail.com",
